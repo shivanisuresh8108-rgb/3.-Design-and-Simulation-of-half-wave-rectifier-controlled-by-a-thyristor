@@ -62,5 +62,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![WhatsApp Image 2026-03-20 at 5 12 35 PM](https://github.com/user-attachments/assets/39043ed3-8f63-4e3f-9e5c-69dee7c4bcb9)
+
 ## Output
+![WhatsApp Image 2026-03-20 at 5 12 35 PM (2)](https://github.com/user-attachments/assets/4ea6e0f6-6a2d-4971-b162-aeb0feca1c2e)
+
 ## Result
+Design-and-Simulation-of-half-wave-rectifier-controlled-by-a-thyristor is verified 
